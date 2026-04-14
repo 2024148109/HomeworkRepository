@@ -1,0 +1,44 @@
+            body{background-color: white;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;}
+
+            .inputs {display: flex;
+                align-items: center;
+                margin-right: 10px;
+                margin-bottom: 10px;}
+
+            label {width: 100px;
+            text-align: left;}
+
+            .login-style{color: black;}
+            .signup-style{color:black;}
+
+
+            .button {text-align: center;
+                border: none;
+                font-size: 13px;
+                cursor: pointer;
+                margin: 4px 1px;
+                padding: 6px 15px;}
+            .login {background-color: greenyellow;
+            border-radius: 8px;}
+            .cancel {background-color: red;
+            border-radius: 8px;
+            color:white;}
+            .button-align{text-align: left;}
+
+
+            .login-box{
+            width: 300px;
+            padding: 20px;
+            height: 100px;
+            border: 2px solid black;
+            margin: 30px auto;
+            background-color: white;}
+
+            .signup-box{width:300px;
+            padding:20px;
+            height: auto;
+            border: 3px solid black;
+            margin: auto;
+            }
