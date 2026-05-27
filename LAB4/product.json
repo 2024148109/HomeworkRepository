@@ -1,0 +1,344 @@
+[
+  {
+    "id": 862,
+    "title": "Toy Story",
+    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Family"
+    ],
+    "popularity": 21.946943,
+    "poster_path": "https://image.tmdb.org/t/p/original/c527bh3QM4ItVT3ek5EI7GQOoDR.jpg",
+    "release_date": "1995-10-30",
+    "vote_average": 7.7
+  },
+  {
+    "id": 8844,
+    "title": "Jumanji",
+    "overview": "When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room.",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ],
+    "popularity": 17.015539,
+    "poster_path": "http://image.tmdb.org/t/p/w185/vzmL6fP7aPKNKPRTFnZmiUfciyV.jpg",
+    "release_date": "1995-12-15",
+    "vote_average": 6.9
+  },
+  {
+    "id": 15602,
+    "title": "Grumpier Old Men",
+    "overview": "A family wedding reignites the ancient feud between next-door neighbors and fishing buddies John and Max. Meanwhile, a sultry Italian divorcée opens a restaurant at the local bait shop, alarming the locals.",
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "popularity": 11.7129,
+    "poster_path": "https://tse4.mm.bing.net/th/id/OIP.XMA_8a97s8LoVKQgAqezdgHaL3?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "release_date": "1995-12-22",
+    "vote_average": 6.5
+  },
+  {
+    "id": 31357,
+    "title": "Waiting to Exhale",
+    "overview": "Cheated on, mistreated and stepped on, the women are holding their breath, waiting for the elusive good man.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "popularity": 3.859495,
+    "poster_path": "https://i.etsystatic.com/23736854/r/il/a8c0c5/2677606296/il_1140xN.2677606296_3479.jpg",
+    "release_date": "1995-12-22",
+    "vote_average": 6.1
+  },
+  {
+    "id": 11862,
+    "title": "Father of the Bride Part II",
+    "overview": "Just when George Banks has recovered from his daughter's wedding, he receives the news that she's pregnant.",
+    "genres": [
+      "Comedy"
+    ],
+    "popularity": 8.387519,
+    "poster_path": "https://images.flickdirect.com/cache/movies/father-of-the-bride-part-ii/05000-father-of-the-bride-part-ii-poster.jpg",
+    "release_date": "1995-02-10",
+    "vote_average": 5.7
+  },
+  {
+    "id": 949,
+    "title": "Heat",
+    "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various insane heists throughout Los Angeles while a mentally unstable detective pursues him without rest.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "popularity": 17.924927,
+    "poster_path": "https://cdn.posteritati.com/posters/000/000/068/811/heat-md-web.jpg",
+    "release_date": "1995-12-15",
+    "vote_average": 7.7
+  },
+  {
+    "id": 11860,
+    "title": "Sabrina",
+    "overview": "An ugly duckling having undergone a remarkable change, still harbors feelings for her crush: a carefree playboy.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "popularity": 6.677277,
+    "poster_path": "https://image.tmdb.org/t/p/original/n6M8qPQL93ebCBgIr7C8wiBWYmK.jpg",
+    "release_date": "1995-12-15",
+    "vote_average": 6.2
+  },
+  {
+    "id": 45325,
+    "title": "Tom and Huck",
+    "overview": "A mischievous young boy Tom Sawyer witnesses a murder by the deadly Injun Joe and becomes friends with Huckleberry Finn.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "popularity": 2.561161,
+    "poster_path": "https://tse2.mm.bing.net/th/id/OIP.SfSg4JFi_-hjcWYSgF7rhQHaLO?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "release_date": "1995-12-22",
+    "vote_average": 5.4
+  },
+  {
+    "id": 9091,
+    "title": "Sudden Death",
+    "overview": "Jean Claude Van Damme portrays a father whose daughter is suddenly taken during a championship hockey game.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "popularity": 5.23158,
+    "poster_path": "https://tse2.mm.bing.net/th/id/OIP.vBdUTLNuO69EnithhLOSqAHaK7?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "release_date": "1995-12-22",
+    "vote_average": 5.5
+  },
+  {
+    "id": 710,
+    "title": "GoldenEye",
+    "overview": "James Bond must unmask the mysterious head of the Janus Syndicate and prevent the leader from utilizing the GoldenEye weapons system.",
+    "genres": [
+      "Adventure",
+      "Action",
+      "Thriller"
+    ],
+    "popularity": 14.686036,
+    "poster_path": "https://tse1.mm.bing.net/th/id/OIP.wL2nCqtmgUPqnfZDAbxiIQHaK-?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "release_date": "1995-11-16",
+    "vote_average": 6.6
+  },
+  {
+    "id": 9087,
+    "title": "The American President",
+    "overview": "Widowed U.S. president Andrew Shepherd courts Sydney Ellen Wade, a Washington lobbyist, sparking wild rumors.",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "popularity": 6.318445,
+    "poster_path": "https://www.themoviedb.org/t/p/original/qjjwbhQah1gcUKqvgpRrttqDj9G.jpg",
+    "release_date": "1995-11-17",
+    "vote_average": 6.5
+  },
+  {
+    "id": 12110,
+    "title": "Dracula: Dead and Loving It",
+    "overview": "When a lawyer shows up at the vampire's doorstep, he falls prey to his charms. Enter Dr. van Helsing.",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "popularity": 5.430331,
+    "poster_path": "https://th.bing.com/th/id/R.86ef46b252433ecfac3d5fd9c89303fe?rik=zzEshQu9hs7sqA&riu=http%3a%2f%2fwww.impawards.com%2f1995%2fposters%2fdracula_dead_and_loving_it.jpg&ehk=QaxpYkAyTOVyxVQ6mDxDIlsFU6DHFRydGjkeuvb6%2f9o%3d&risl=&pid=ImgRaw&r=0",
+    "release_date": "1995-12-22",
+    "vote_average": 5.7
+  },
+  {
+    "id": 21032,
+    "title": "Balto",
+    "overview": "An outcast half-wolf risks his life to prevent a deadly epidemic from ravaging Nome, Alaska.",
+    "genres": [
+      "Family",
+      "Animation",
+      "Adventure"
+    ],
+    "popularity": 12.140733,
+    "poster_path": "https://vignette.wikia.nocookie.net/balto/images/1/1e/220px-Balto_movie_poster.jpg/revision/latest?cb=20130807205641",
+    "release_date": "1995-12-22",
+    "vote_average": 7.1
+  },
+  {
+    "id": 10858,
+    "title": "Nixon",
+    "overview": "An all-star cast powers this epic look at American President Richard M. Nixon, a man carrying the fate of the world on his shoulders.",
+    "genres": [
+      "History",
+      "Drama"
+    ],
+    "popularity": 5.092,
+    "poster_path": "https://c8.alamy.com/comp/GG2EPR/electoral-poster-for-richard-nixon-1960-united-states-washington-library-GG2EPR.jpg",
+    "release_date": "1995-12-22",
+    "vote_average": 7.1
+  },
+  {
+    "id": 1408,
+    "title": "Cutthroat Island",
+    "overview": "Morgan Adams and her slave William Shaw are on a quest to recover the three portions of a treasure map.",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "popularity": 7.284477,
+    "poster_path": "https://c8.alamy.com/comp/2JKA09D/matthew-modine-geena-davis-poster-film-cutthroat-island-1996-characters-william-shaw-morgan-adams-director-renny-harlin-22-december-1995-warning-this-photograph-is-for-editorial-use-only-and-is-the-copyright-of-mgm-andor-the-photographer-assigned-by-the-film-or-production-company-and-can-only-be-reproduced-by-publications-in-conjunction-with-the-promotion-of-the-above-film-a-mandatory-credit-to-mgm-is-required-the-photographer-should-also-be-credited-when-known-no-commercial-use-can-be-granted-without-written-authority-from-the-film-company-2JKA09D.jpg",
+    "release_date": "1995-12-22",
+    "vote_average": 5.7
+  },
+  {
+    "id": 524,
+    "title": "Casino",
+    "overview": "The life of the gambling paradise Las Vegas and its dark mafia underbelly.",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "popularity": 10.137389,
+    "poster_path": "https://image.tmdb.org/t/p/original/A23MVQwrtS9GXrxDTFVNswQF6H3.jpg",
+    "release_date": "1995-11-22",
+    "vote_average": 7.8
+  },
+  {
+    "id": 4584,
+    "title": "Sense and Sensibility",
+    "overview": "Rich Mr. Dashwood dies, leaving his second wife and her daughters poor by the rules of inheritance.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "popularity": 10.673167,
+    "poster_path": "https://th.bing.com/th/id/R.d5ad3a67365f42961fc8d9c98a0bcaee?rik=R%2bOsFNJkCKGDXQ&riu=http%3a%2f%2fwww.impawards.com%2f1995%2fposters%2fsense_and_sensibility.jpg&ehk=Tr8w7Gu%2bJzwCJ2jzn5L%2bmMeVca8xbo4%2bgeyia4IcYAQ%3d&risl=&pid=ImgRaw&r=0",
+    "release_date": "1995-12-13",
+    "vote_average": 7.2
+  },
+  {
+    "id": 5,
+    "title": "Four Rooms",
+    "overview": "It's Ted the Bellhop's first night on the job and the hotel's very unusual guests are about to place him in some outrageous predicaments.",
+    "genres": [
+      "Crime",
+      "Comedy"
+    ],
+    "popularity": 9.026586,
+    "poster_path": "https://m.media-amazon.com/images/I/519pSO0pCNL._AC_UF894,1000_QL80_.jpg",
+    "release_date": "1995-12-09",
+    "vote_average": 6.5
+  },
+  {
+    "id": 9273,
+    "title": "Ace Ventura: When Nature Calls",
+    "overview": "Summoned from an ashram in Tibet, Ace finds himself on a perilous journey into the jungles of Africa to find a missing sacred animal.",
+    "genres": [
+      "Crime",
+      "Comedy",
+      "Adventure"
+    ],
+    "popularity": 8.205448,
+    "poster_path": "https://www.themoviedb.org/t/p/original/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg",
+    "release_date": "1995-11-10",
+    "vote_average": 6.1
+  },
+  {
+    "id": 11517,
+    "title": "Money Train",
+    "overview": "A vengeful New York transit cop decides to steal a trainload of subway fares; his foster brother tries to protect him.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "popularity": 7.337906,
+    "poster_path": "http://image.tmdb.org/t/p/w185/jSozzzVOR2kfXgTUuGnbgG2yRFi.jpg",
+    "release_date": "1995-11-21",
+    "vote_average": 5.4
+  },
+  {
+    "id": 8012,
+    "title": "Get Shorty",
+    "overview": "Chili Palmer is a Miami mobster who gets sent to collect a debt from a Hollywood producer and learns show business isn't so different.",
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Crime"
+    ],
+    "popularity": 12.669608,
+    "poster_path": "https://th.bing.com/th/id/R.cfe7fa6762a9449fc9cd6e0fa0413749?rik=Gv9bbG%2bp%2bVdByA&riu=http%3a%2f%2fwww.impawards.com%2f1995%2fposters%2fget_shorty.jpg&ehk=lV2a4cy%2bmnI3AwpwShj95cVvvXcG0J18QSf1o4xtfVs%3d&risl=&pid=ImgRaw&r=0",
+    "release_date": "1995-10-20",
+    "vote_average": 6.4
+  },
+  {
+    "id": 1710,
+    "title": "Copycat",
+    "overview": "An agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past.",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "popularity": 10.701801,
+    "poster_path": "https://th.bing.com/th/id/R.4ab5686a4b57abc592fedb1b9e21fcae?rik=yk7EGWP%2fQr7i4Q&riu=http%3a%2f%2fwww.impawards.com%2f1995%2fposters%2fcopycat_ver2.jpg&ehk=76e62vshco%2fVn4fSg%2fKBObDs4mgGWP0DoOY58G%2fziNY%3d&risl=&pid=ImgRaw&r=0",
+    "release_date": "1995-10-27",
+    "vote_average": 6.5
+  },
+  {
+    "id": 9691,
+    "title": "Assassins",
+    "overview": "Assassin Robert Rath arrives at a funeral to kill a prominent mobster, only to witness a rival hired gun complete the job.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Thriller"
+    ],
+    "popularity": 11.065939,
+    "poster_path": "https://www.themoviedb.org/t/p/original/kgqS4jn60E8UIExfceMUExB3ZKK.jpg",
+    "release_date": "1995-10-06",
+    "vote_average": 6.0
+  },
+  {
+    "id": 12665,
+    "title": "Powder",
+    "overview": "Harassed by classmates, a shy young man known as Powder struggles to fit in while displaying a mysterious power.",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "popularity": 12.133094,
+    "poster_path": "https://www.themoviedb.org/t/p/original/kImKATjY4EsK5MDgrmpJdGbQEbq.jpg",
+    "release_date": "1995-10-27",
+    "vote_average": 6.3
+  },
+  {
+    "id": 451,
+    "title": "Leaving Las Vegas",
+    "overview": "Ben Sanderson, an alcoholic Hollywood screenwriter who lost everything, arrives in Las Vegas to drink himself to death.",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "popularity": 10.332025,
+    "poster_path": "https://tse4.mm.bing.net/th/id/OIP.U3zHa2SlGjDHVLKdgmqeSAHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "release_date": "1995-10-27",
+    "vote_average": 7.1
+  }
+]
